@@ -36,8 +36,8 @@ My goal is to learn by doing, understand IT infrastructures and explore cybersec
 **Sécurité**
 - pfSense / OPNsense
 - Wireshark
-- Nessus
-- Trivy
+- Nmap
+- Kali
 
 **Virtualisation & outils**
 - VMware Workstation
