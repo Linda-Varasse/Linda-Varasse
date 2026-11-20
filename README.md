@@ -34,19 +34,22 @@ I develop my technical skills through hands-on projects, infrastructure labs and
 
 ---
 
-## 🚀 Projects | Projets
 
-*Practical projects and technical labs coming soon.*
+## 🚀 My Projects | Mes projets
 
----
+Here you will find my practical projects, technical labs and experiments related to systems administration, networking and cybersecurity.
+
+Vous trouverez ici mes projets pratiques, laboratoires techniques et expérimentations autour de l'administration systèmes, des réseaux et de la cybersécurité.
+
+*Projects will be added as I learn and progress.*
 
 ## 📚 Currently Learning | En cours d'apprentissage
 
-- Infrastructure security & hardening
-- Network segmentation and firewall policies
+- Windows Server & Active Directory
 - Linux system administration
-- Automation with PowerShell and Bash
-- Vulnerability assessment
+- Network infrastructure and security
+- PowerShell & Bash scripting
+- Docker and virtualization
 
 ---
 
