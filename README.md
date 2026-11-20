@@ -1,66 +1,73 @@
 
-# 👩‍💻 Linda Varasse
+# Linda Varasse
 
-### `SYSTEMS` · `NETWORKS` · `CYBERSECURITY`
-
-**Technicienne Supérieure Systèmes et Réseaux | TSSR – Cybersecurity**
+### Technicienne Supérieure Systèmes et Réseaux | TSSR – Cybersécurité
 
 ---
 
-## 👋 About Me | À propos
+## 👋 À propos | About me
 
 🇫🇷 Actuellement en formation TSSR (Technicien Supérieur Systèmes et Réseaux), option cybersécurité.
 
-Je développe mes compétences en administration systèmes, réseaux et sécurité informatique à travers des projets pratiques et des laboratoires techniques.
+Je développe progressivement mes compétences en administration systèmes, réseaux et sécurité informatique à travers des travaux pratiques, des projets personnels et des laboratoires techniques.
+
+Mon objectif : apprendre en pratiquant, comprendre le fonctionnement des infrastructures informatiques et découvrir les bonnes pratiques de sécurisation.
 
 🇬🇧 Currently training in Systems and Network Administration, with a focus on cybersecurity.
 
-I develop my technical skills through hands-on projects, infrastructure labs and practical troubleshooting.
+I am developing my skills through hands-on exercises, personal projects and technical labs.
+
+My goal is to learn by doing, understand IT infrastructures and explore cybersecurity best practices.
 
 ---
 
-## 🖥️ Technical Skills | Compétences techniques
+## 🛠️ Environnement technique | Technical environment
 
-| Domain | Technologies |
-|---|---|
-| Systems | Debian, Linux, Windows Server |
-| Directory Services | Active Directory, GPO |
-| Networking | TCP/IP, VLAN, DHCP, DNS, Routing |
-| Security | pfSense, OPNsense, Firewall, VPN |
-| Virtualization | VMware Workstation, GNS3 |
-| Containers | Docker, Docker Compose |
-| Scripting | PowerShell, Bash |
-| Security Tools | Wireshark, Nessus, Trivy |
+**Systèmes**
+- Debian / Linux
+- Windows Server
+- Active Directory
+
+**Réseaux**
+- TCP/IP, VLAN, DHCP, DNS
+- Routing, NAT, ACL
+- VPN, DMZ
+
+**Sécurité**
+- pfSense / OPNsense
+- Wireshark
+- Nessus
+- Trivy
+
+**Virtualisation & outils**
+- VMware Workstation
+- GNS3
+- Docker
+- PowerShell
+- Bash
 
 ---
 
+## 🚀 Projets | Projects
 
-## 🚀 My Projects | Mes projets
-
-Here you will find my practical projects, technical labs and experiments related to systems administration, networking and cybersecurity.
-
-Vous trouverez ici mes projets pratiques, laboratoires techniques et expérimentations autour de l'administration systèmes, des réseaux et de la cybersécurité.
+Vous trouverez ici mes travaux pratiques, projets personnels et expérimentations réalisés durant mon parcours de formation.
 
 *Projects will be added as I learn and progress.*
 
-## 📚 Currently Learning | En cours d'apprentissage
+---
 
-- Windows Server & Active Directory
-- Linux system administration
-- Network infrastructure and security
-- PowerShell & Bash scripting
-- Docker and virtualization
+## 📚 En cours d'apprentissage | Currently learning
+
+- Administration Windows Server et Active Directory
+- Administration systèmes Linux
+- Infrastructure réseau et sécurité
+- Automatisation avec PowerShell et Bash
+- Sécurisation des infrastructures informatiques
 
 ---
 
-## 🎯 My Goal | Mon objectif
+## 🎯 Objectif | Goal
 
-Build, manage and secure reliable IT infrastructures while continuously developing my technical skills.
+Continuer à développer mes compétences techniques et mettre en pratique mes connaissances à travers des projets concrets.
 
-Construire, administrer et sécuriser des infrastructures informatiques fiables tout en développant continuellement mes compétences.
-
----
-
-<p align="center">
-  <i>Learn by doing. Secure by design.</i>
-</p>
+*Learn by doing, one project at a time.*
